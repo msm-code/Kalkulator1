@@ -158,13 +158,13 @@ namespace Kalkulator1
 				}
 				else
 				{
-					this.label6.Text = "Hasło powinno się zkładać z minimum 8 znaków, a maksymalnie z 40. Powinno również zawierać jedną wielką literę, jedną mała, cyfrę oraz znak specjalny (! @ # $ % ^ & * ( ) \\ - _ + = < > ? )";
+					this.label6.Text = "Hasło powinno się składać z minimum 8 znaków, a maksymalnie z 40. Powinno również zawierać jedną wielką literę, jedną mała, cyfrę oraz znak specjalny (! @ # $ % ^ & * ( ) \\ - _ + = < > ? )";
 					this.label6.Visible = true;
 				}
 			}
 			else
 			{
-				this.label6.Text = "Hasło powinno się zkładać z minimum 8 znaków, a maksymalnie z 40. Powinno również zawierać jedną wielką literę, jedną mała, cyfrę oraz znak specjalny (! @ # $ % ^ & * ( ) \\ - _ + = < > ? )";
+				this.label6.Text = "Hasło powinno się składać z minimum 8 znaków, a maksymalnie z 40. Powinno również zawierać jedną wielką literę, jedną mała, cyfrę oraz znak specjalny (! @ # $ % ^ & * ( ) \\ - _ + = < > ? )";
 				this.label6.Visible = true;
 			}
 		}
